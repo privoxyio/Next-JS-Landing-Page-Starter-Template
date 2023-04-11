@@ -3,25 +3,25 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="Brand-name Electronics. Great Prices. Unbeatable Payments."
+    description="The premier destination for top-quality brand name electronics. Our online store is dedicated to providing you with the latest and greatest products from the most reputable brands in the industry."
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="PC Parts and Components"
+      description="Whether you’re in the market for a new gaming pc, laptop, graphics card, motherboard or you’re just looking for a niche component, we’ve got you covered. We stock over 3,000 unique products and maintain accurate daily inventory levels."
       image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      imageAlt="Shop Parts"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="High Quality Brand Names"
+      description="Our team is knowledgeable with the latest technology trends and product releases, and we carefully select each product to ensure that it meets our quality standards and provides the best value to our customers."
       image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      imageAlt="Quality Hardware and Brands"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Get 10% Off w/ 85+ Crypto Coins"
+      description="We are passionate about technology and decentralized payment protocols. That’s why we accept over 85 different virtual currencies (cryptocurrencies) and offer substantial discounts for doing so! It’s our way of passing on better pricing to our valued customers while strengthening mainstream adoption and widespread use of cryptocurrencies."
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
