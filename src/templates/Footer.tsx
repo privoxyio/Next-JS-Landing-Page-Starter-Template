@@ -71,18 +71,8 @@ const Footer = () => (
         }
       >
         <li>
-          <Link href="/">
-            <a>Home</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/">
-            <a>About</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/">
-            <a>Docs</a>
+          <Link href="https://shop.privoxy.io/">
+            <a>Shop</a>
           </Link>
         </li>
         <li>
