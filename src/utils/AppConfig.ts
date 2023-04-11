@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Privxoy',
-  title: 'Privoxy.io Store',
-  description: 'The best place to spend your crypto',
+  site_name: 'Privoxy',
+  title: 'Privoxy.io',
+  description: 'Unbeatable discounts and ultimate privacy protection.',
   locale: 'en',
 };
