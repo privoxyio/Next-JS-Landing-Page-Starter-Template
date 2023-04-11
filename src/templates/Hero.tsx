@@ -28,11 +28,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The worlds largest electronics superstore powered by\n'}
-            <span className="text-primary-500">Cryptocurrency Payments</span>
+            {'The #1 electronics superstore powered by\n'}
+            <span className="text-primary-500">cryptocurrency payments</span>
           </>
         }
-        description="Upgrade your hardware, secure your privacy, and save big"
+        description="Upgrade your hardware and save big"
         button={
           <Link href="https://shop.privoxy.io">
             <a>
