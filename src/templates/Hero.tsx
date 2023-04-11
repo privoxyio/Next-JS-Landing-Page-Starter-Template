@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://shop.privoxy.io">
-            <a>Store</a>
+            <a>Our Store</a>
           </Link>
         </li>
         <li>
@@ -28,11 +28,11 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The #1 electronics superstore powered by\n'}
+            {'The modern tech superstore powered by\n'}
             <span className="text-primary-500">cryptocurrency payments</span>
           </>
         }
-        description="Upgrade your hardware and save big"
+        description="Upgrade your hardware and save big."
         button={
           <Link href="https://shop.privoxy.io">
             <a>
