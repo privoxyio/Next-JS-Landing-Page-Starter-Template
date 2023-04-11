@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Starter',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Privxoy',
+  title: 'Privoxy.io Store',
+  description: 'The best place to spend your crypto',
   locale: 'en',
 };
