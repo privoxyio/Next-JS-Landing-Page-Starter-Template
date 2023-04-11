@@ -32,7 +32,7 @@ const Hero = () => (
             <span className="text-primary-500">Cryptocurrency Payments</span>
           </>
         }
-        description="Unbeatable discounts and ultimate privacy protection."
+        description="Upgrade your hardware, secure your privacy, and save big"
         button={
           <Link href="https://shop.privoxy.io">
             <a>
