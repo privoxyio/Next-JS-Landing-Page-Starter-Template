@@ -86,8 +86,8 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
-            <a>GitHub</a>
+          <Link href="https://shop.privoxy.io/about-us/">
+            <a>About Us</a>
           </Link>
         </li>
       </CenteredFooter>
