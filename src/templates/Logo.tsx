@@ -5,7 +5,7 @@ type ILogoProps = {
 };
 
 const Logo = (props: ILogoProps) => {
-  const size = props.xl ? '149' : '99';
+  const size = props.xl ? '153' : '103';
   const fontStyle = props.xl
     ? 'font-semibold text-3xl'
     : 'font-semibold text-xl';
@@ -24,7 +24,7 @@ const Logo = (props: ILogoProps) => {
         strokeLinejoin="round"
       >
         <path d="M0 0h24v24H0z" stroke="none" />
-        <image href="https://privoxy.io/public/assets/images/logo.png" width="149" height="99" />
+        <image href="https://privoxy.io/public/assets/images/logo.png" width="153" height="103" />
       </svg>
 
       {AppConfig.site_name}
