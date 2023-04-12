@@ -10,7 +10,7 @@ type INavbarProps = {
 const NavbarTwoColumns = (props: INavbarProps) => (
   <div className="flex flex-wrap justify-between items-center">
     <div>
-      <Link href="/">
+      <Link href="https://shop.privoxy.io/wp-content/uploads/2023/03/cropped-PNG-FILE-HIGH-RESOLUTION-01-2048x1327.png">
         <a>{props.logo}</a>
       </Link>
     </div>
