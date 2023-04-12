@@ -5,7 +5,7 @@ type ILogoProps = {
 };
 
 const Logo = (props: ILogoProps) => {
-  const size = props.xl ? '44' : '32';
+  const size = props.xl ? '88' : '64';
   const fontStyle = props.xl
     ? 'font-semibold text-3xl'
     : 'font-semibold text-xl';
@@ -24,7 +24,7 @@ const Logo = (props: ILogoProps) => {
         strokeLinejoin="round"
       >
         <path d="M0 0h24v24H0z" stroke="none" />
-        <image href="https://shop.privoxy.io/wp-content/uploads/2023/03/cropped-PNG-FILE-HIGH-RESOLUTION-01-1024x664.png" width="80" height="80" />
+        <image href="https://shop.privoxy.io/wp-content/uploads/2023/03/cropped-PNG-FILE-HIGH-RESOLUTION-01-1024x664.png" width="80" height="60" />
       </svg>
 
       {AppConfig.site_name}
