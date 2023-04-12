@@ -21,7 +21,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="10% Discount Storewide"
-      description="We incentivize the use of cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice! Our payment gateway accepts over 85+ different blockchains."
+      description="We incentivize the use of privacy-enhancing cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice! Our payment gateway accepts over 85+ different blockchains."
       image="/assets/images/feature3.svg"
       imageAlt="Crypto powered discounts"
     />
