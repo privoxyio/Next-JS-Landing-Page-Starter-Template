@@ -7,8 +7,8 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Ready for a crypto-enabled shopping experience?"
-      subtitle="Save 10%."
+      title="Ready for deep crypto discounts?"
+      subtitle="Save 10% today"
       button={
         <Link href="https://shop.privoxy.io">
           <a>
