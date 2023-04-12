@@ -3,27 +3,27 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Brand-name Electronics. Great Prices. Unbeatable Payments."
-    description="The premier destination for top-quality brand name electronics. Our online store is dedicated to providing you with the latest and greatest products from the most reputable brands in the industry."
+    title="Unbeatable discounts and ultimate privacy protection."
+    description="We offer high quality, brand name hardware from leading manufacturers. We are dedicated to providing you with the latest and greatest products from the most reputable brands in the industry."
   >
     <VerticalFeatureRow
       title="PC Parts and Components"
-      description="Whether you’re in the market for a new gaming pc, laptop, graphics card, motherboard or you’re just looking for a niche component, we’ve got you covered. We stock over 3,000 unique products and maintain accurate daily inventory levels."
+      description="We stock over 3000+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
       image="/assets/images/feature.svg"
-      imageAlt="Shop Parts"
+      imageAlt="Shop pc's, parts and components"
     />
     <VerticalFeatureRow
-      title="High Quality Brand Names"
-      description="Our team is knowledgeable with the latest technology trends and product releases, and we carefully select each product to ensure that it meets our quality standards and provides the best value to our customers."
+      title="High Quality Brands"
+      description="Our team is knowledgeable with the latest technology trends and product releases. We carefully select each product to ensure that it meets our quality standards and provides the best value."
       image="/assets/images/feature2.svg"
       imageAlt="Quality Hardware and Brands"
       reverse
     />
     <VerticalFeatureRow
-      title="Get 10% Off w/ 85+ Crypto Coins"
-      description="We are passionate about technology and decentralized payment protocols. That’s why we accept over 85 different virtual currencies (cryptocurrencies) and offer substantial discounts for doing so! It’s our way of passing on better pricing to our valued customers while strengthening mainstream adoption and widespread use of cryptocurrencies."
+      title="10% Discount Storewide"
+      description="We incentivize the use of cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice. Our payment gateway accepts over 85+ different blockchains."
       image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
+      imageAlt="Crypto powered discounts"
     />
   </Section>
 );
