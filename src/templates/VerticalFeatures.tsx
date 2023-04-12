@@ -8,7 +8,7 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="Huge Inventory"
-      description="We stock over 3350+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
+      description="We stock over 3,350+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
       image="/assets/images/feature.svg"
       imageAlt="Shop pc's, parts and components"
     />
