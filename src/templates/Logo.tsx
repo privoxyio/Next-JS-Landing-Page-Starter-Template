@@ -24,7 +24,7 @@ const Logo = (props: ILogoProps) => {
         strokeLinejoin="round"
       >
         <path d="M0 0h24v24H0z" stroke="none" />
-        <image href="https://privoxy.io/public/assets/images/logos.svg" width="153" height="153" />
+        <image href="https://shop.privoxy.io/wp-content/uploads/2023/04/logo.png" width="153" height="153" />
       </svg>
 
       {AppConfig.site_name}
