@@ -29,7 +29,7 @@ const Hero = () => (
         title={
           <>
             {'We are a tech-focused e-retailer powered by\n'}
-            <span className="text-primary-500">cryptocurrency payments</span>
+            <span className="text-primary-500">Cryptocurrency Payments.</span>
           </>
         }
         description="Upgrade your hardware and save big."
