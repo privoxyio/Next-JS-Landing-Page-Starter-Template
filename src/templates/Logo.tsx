@@ -17,14 +17,14 @@ const Logo = (props: ILogoProps) => {
         xmlns="http://www.w3.org/2000/svg"
         width={size}
         height={size}
-        viewBox="0 0 157 157"
+        viewBox="0 0 153 153"
         strokeWidth="1.5"
         fill="none"
         strokeLinecap="round"
         strokeLinejoin="round"
       >
         <path d="M0 0h24v24H0z" stroke="none" />
-        <image href="https://privoxy.io/public/assets/images/logo-3.png" width="149" height="99" />
+        <image href="https://shop.privoxy.io/wp-content/uploads/2023/04/logo.png" width="153" height="153" />
       </svg>
 
       {AppConfig.site_name}
