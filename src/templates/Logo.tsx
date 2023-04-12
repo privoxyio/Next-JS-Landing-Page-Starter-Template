@@ -17,7 +17,7 @@ const Logo = (props: ILogoProps) => {
         xmlns="http://www.w3.org/2000/svg"
         width={size}
         height={size}
-        viewBox="0 0 149 99"
+        viewBox="0 0 153 149"
         strokeWidth="1.5"
         fill="none"
         strokeLinecap="round"
