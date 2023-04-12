@@ -3,12 +3,12 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Unbeatable discounts and ultimate privacy protection."
+    title="Special discounts and privacy-enhancing payments."
     description="We offer high quality, brand name hardware from leading manufacturers. We are dedicated to providing you with the latest and greatest products from the most reputable brands in the industry."
   >
     <VerticalFeatureRow
-      title="PC Parts and Components"
-      description="We stock over 3000+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
+      title="Huge Inventory"
+      description="We stock over 3350+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
       image="/assets/images/feature.svg"
       imageAlt="Shop pc's, parts and components"
     />
@@ -21,7 +21,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="10% Discount Storewide"
-      description="We incentivize the use of cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice. Our payment gateway accepts over 85+ different blockchains."
+      description="We incentivize the use of cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice! Our payment gateway accepts over 85+ different blockchains."
       image="/assets/images/feature3.svg"
       imageAlt="Crypto powered discounts"
     />
