@@ -28,7 +28,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'Tech-focused e-retailer powered by\n'}
+            {'We are a Tech-focused e-retailer powered by\n'}
             <span className="text-primary-500">cryptocurrency payments</span>
           </>
         }
