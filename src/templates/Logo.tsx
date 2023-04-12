@@ -5,7 +5,7 @@ type ILogoProps = {
 };
 
 const Logo = (props: ILogoProps) => {
-  const size = props.xl ? '88' : '64';
+  const size = props.xl ? '115' : '75';
   const fontStyle = props.xl
     ? 'font-semibold text-3xl'
     : 'font-semibold text-xl';
@@ -17,7 +17,7 @@ const Logo = (props: ILogoProps) => {
         xmlns="http://www.w3.org/2000/svg"
         width={size}
         height={size}
-        viewBox="0 0 120 80"
+        viewBox="0 0 115 75"
         strokeWidth="1.5"
         fill="none"
         strokeLinecap="round"
