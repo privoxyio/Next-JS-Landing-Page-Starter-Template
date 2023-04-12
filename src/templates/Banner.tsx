@@ -8,7 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Ready for a crypto enabled shopping experience?"
-      subtitle="Get 10% off today."
+      subtitle="Save 10%"
       button={
         <Link href="https://shop.privoxy.io">
           <a>
