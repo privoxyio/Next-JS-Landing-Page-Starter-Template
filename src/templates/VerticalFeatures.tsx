@@ -3,7 +3,7 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Large discounts and extreme value."
+    title="Deep discounts and exceptional value."
     description="We offer high quality, brand name hardware from leading manufacturers. We are dedicated to providing you with the latest and greatest products from the most reputable brands in the industry."
   >
     <VerticalFeatureRow
