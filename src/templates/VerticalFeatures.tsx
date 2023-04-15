@@ -8,7 +8,7 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="Huge Inventory"
-      description="We stock over 3,350+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
+      description="We stock 3,350+ items including desktops, laptops, parts and components while maintaining accurate daily inventory levels."
       image="/assets/images/feature.svg"
       imageAlt="Shop pc's, parts and components"
     />
@@ -21,7 +21,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="10% Discount Storewide"
-      description="We incentivize the use of privacy-enhancing cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice! Our payment gateway accepts over 85+ different blockchains."
+      description="We incentivize the use of privacy-enhancing cryptocurrencies by offering a 10% discount across our entire store. Pay us in your coins of choice! Our payment gateway accepts 85+ different blockchains."
       image="/assets/images/feature3.svg"
       imageAlt="Crypto powered discounts"
     />
